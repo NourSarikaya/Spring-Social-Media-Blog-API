@@ -93,15 +93,4 @@ Run the Spring Boot application (SocialMediaApplication.java).
 
 Use Postman or any REST client to interact with the endpoints on localhost:8080.
 
-📁 Project Structure
-src/
-├── main/
-│   ├── java/
-│   │   └── com.example.socialmedia/
-│   │       ├── controller/
-│   │       ├── service/
-│   │       ├── repository/
-│   │       └── model/
-│   └── resources/
-│       └── application.properties
-└── test/
+
